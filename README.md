@@ -40,14 +40,6 @@
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
 
-    <style>
-      .skills_bar {
-        margin-top: 20px;
-        background-color: #ddd;
-        padding: 20px;
-        border-radius: 20px;
-      }
-    </style>
   </head>
   <body id="page-top">
     <!-- Navigation-->
